@@ -1,0 +1,74 @@
+.formBorder {
+	padding: 50px;
+	width: 250px;
+	border: 2px solid;
+	border-color: #12b776;
+	box-shadow: 4px 4px 0px 1px #12b774;
+	border-radius: 5px 5px 5px 5px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.formBorderForAll {
+	padding: 50px;
+	width: 800px;
+	border: 2px solid;
+	border-color: #12b776;
+	box-shadow: 4px 4px 0px 1px #12b774;
+	border-radius: 5px 5px 5px 5px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h3 {
+	width: 350px;
+	color: #12b776;
+	background-color: #EBEBEB;
+	margin-top: 90px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 2px solid;
+	border-color: #12b776;
+	box-shadow: 0px 0px 3px 1.5px #12b776;
+	border-radius: 5pc 20px;
+	text-align: center;
+}
+
+#button {
+	text-align: center;
+	color: white;
+	background-color: #12b776;
+	width: 100px;
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+}
+
+#button1 {
+	text-align: center;
+	color: white;
+	background-color: #12b776;
+	width: 100px;
+	height: 30px;
+	margin-top:30px;
+	border-radius: 5px;
+	outline: none;
+}
+
+#field {
+	border-radius: 5px;
+	padding: 5px;
+	width: 200px;
+}
+
+#field:focus {
+	outline: none;
+	border-radius: 5px;
+	border-color: #12b776;
+	box-shadow: 0px 0px 3px 1.5px #12b776;
+}
